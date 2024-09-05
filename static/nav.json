@@ -47,7 +47,7 @@
 			{
 				"name": "Nodeseek",
 				"href": "https://www.nodeseek.com/",
-				"logo": "static/icons/Nodeseek.png"
+				"logo": "static/icons/NodeSeek.png"
 			},
 			{
 				"name": "LINUX DO",
@@ -57,7 +57,7 @@
 			{
 				"name": "NeZha",
 				"href": "https://nzcon.zoharluo.space/",
-				"logo": "static/icons/NeZha.png"
+				"logo": "static/icons/nezha.png"
 			},
 			{
 				"name": "X",
@@ -119,7 +119,7 @@
 			},{
 				"name": "哇沃主機",
 				"href": "https://wawo.wiki",
-				"logo": "static/icons/wawo.png"
+				"logo": "static/icons/Wawo.png"
 			},{
 				"name": "多多云",
 				"href": "https://duocloud.net/",
