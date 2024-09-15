@@ -61,7 +61,7 @@ $(function () {
         navstr += '<a target="_blank" href="' + str["href"] + '">';
         navstr += '<div class="item">';
         navstr += '    <div class="logo">'
-        navstr += '       <img src="https://favicon.zhusl.com/ico?url=' + str["href"] + '"></div> ';
+        navstr += '       <img src="' + str["logo"] + '"></div> ';
         navstr += '   <p>' + '<strong>' + str["name"] + '</strong></p>';
         navstr += '</div>      </a>';
       })
@@ -102,7 +102,7 @@ $(function () {
             navstr += '<a target="_blank" href="' + str["href"] + '">';
             navstr += '<div class="item">';
             navstr += '    <div class="logo">'
-            navstr += '       <img src="https://favicon.zhusl.com/ico?url=' + str["href"] + '"></div> ';
+            navstr += '       <img src="' + str["logo"] + '"></div> ';
             navstr += '   <p>' + '<strong>' + str["name"] + '</strong></p>';
             navstr += '</div>      </a>';
           })
