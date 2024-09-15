@@ -134,7 +134,7 @@
 				"logo": "static/icons/oracle.ico"
 			},{
 				"name": "Google Cloud",
-				"href": "hhttps://cloud.google.com",
+				"href": "https://cloud.google.com",
 				"logo": "static/icons/Google Cloud.ico"
 			},{
 				"name": "AWS",
